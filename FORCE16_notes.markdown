@@ -1,8 +1,8 @@
 # Estimated costs
 Airfare: $150
 Hotel: $700
-Ground transportation: $10
-Meals: $?
+Ground transportation: $20
+Meals: $80
 
 Data Citation Implementation Group
 Software Citation Working Group
@@ -60,17 +60,16 @@ My fellowship focused on data publication– how to incorporate data into the sc
 I was fortunate enough to attend Force2015, which was tremendously invigorating for me.
 Sarah Thomas's talk and subsequent discussion of the library's role in scholarly communication, and the session on reproducibility stood out as exceptionally relevant to my interests.
 Presently, I am working on a redesign of the CDL's data publication service.
-Evolving scholarly communication remains the focus of my work, and I would love to attend Force2016.
+Although my postdoctoral fellowhip– and accompanying travel budget– is over, evolving scholarly communication remains the focus of my work.
+I hope to attend Force2016, and a travel fellowship would make that much easier.
 
-The work Force11 does centers squarely on my ongoing professional interests.
+The work Force11 does centers squarely on my ongoing professional interests, and I have been involved in Force11 working groups.
 My thinking about data publication has been less from an data management perspective (although good data management is certainly critical) and more about how data might fit into an enriched scholarly communication network.
 In my postdoctoral work, it quickly became clear that because citations constitute both the edges connecting nodes in the scholarly communication network, and the coin of academic prestige, establishing citation practices is essential to the incorporation of novel scholarly products.
 I worked on this issue as a member of the Data Citation Implementation Group and, now, of the Software Citation Working Group.
 The opportunity to meet in-person with fellow group-members, as well as funders and publishers involved in this space would be invaluable to me.
 
-Above networking opportunities, the program for Force2016 is extremely exciting.
-I am working on my library's data publication service, so the library publishing session is very appealing.
-I am also working on a metrics project (Making Data Count) so the altmetrics session is interesting.
-From the library, interacting with the group that FORCE11 brings together is really good; lots of perspectives we don't necessarily have around here.
-I would like to be able to bring some of that back.
-I would certainly like to write a post for DataPub about it.
+Above networking opportunities, the program for Force2016 is very exciting to me.
+The library publishing session is naturally appealing.
+I am working on a data metrics project (Making Data Count) so I am very interested in the altmetrics session, as well as the (unfortunately concurrent) data management session.
+I look forward to bringing the perspectives of the Force11 community back to the CDL, and I would certainly like to write a post for our DataPub blog about the experience.
