@@ -55,21 +55,23 @@ Software Citation Working Group
   4. generally brining stuff back to CDL
 
 
-Last August, I concluded a CLIR/DLF postdoctoral fellowship at the California Digital Library (CDL) and transitioned to a user experience design role.
-My fellowship focused on data publication– how to incorporate data into the scholarly record, how to incentivize data publication, and how to measure the impact of published datasets.
-I was fortunate enough to attend Force2015, which was tremendously invigorating for me.
-Sarah Thomas's talk and subsequent discussion of the library's role in scholarly communication, and the session on reproducibility stood out as exceptionally relevant to my interests.
-Presently, I am working on a redesign of the CDL's data publication service.
-Although my postdoctoral fellowhip– and accompanying travel budget– is over, evolving scholarly communication remains the focus of my work.
-I hope to attend Force2016, and a travel fellowship would make that much easier.
+1. I'm recently post-postdoc
+2. My interests / current projects fit precisely in F11's remit
+3. I'm involved in Force11 working groups
+3. I went last year and got a lot out of it
 
-The work Force11 does centers squarely on my ongoing professional interests, and I have been involved in Force11 working groups.
-My thinking about data publication has been less from an data management perspective (although good data management is certainly critical) and more about how data might fit into an enriched scholarly communication network.
-In my postdoctoral work, it quickly became clear that because citations constitute both the edges connecting nodes in the scholarly communication network, and the coin of academic prestige, establishing citation practices is essential to the incorporation of novel scholarly products.
-I worked on this issue as a member of the Data Citation Implementation Group and, now, of the Software Citation Working Group.
+ on data publication– how to incorporate data into the scholarly record, how to incentivize data publication, and how to measure the impact of published datasets. Although my postdoctoral fellowhip– and accompanying travel budget– is over, evolving scholarly communication remains the focus of my work.
 The opportunity to meet in-person with fellow group-members, as well as funders and publishers involved in this space would be invaluable to me.
 
-Above networking opportunities, the program for Force2016 is very exciting to me.
-The library publishing session is naturally appealing.
-I am working on a data metrics project (Making Data Count) so I am very interested in the altmetrics session, as well as the (unfortunately concurrent) data management session.
-I look forward to bringing the perspectives of the Force11 community back to the CDL, and I would certainly like to write a post for our DataPub blog about the experience.
+I hope to attend Force2016, and a travel fellowship would make that much easier.
+
+The library publishing session is naturally relevant to my library-based work on data publication.
+I am also working on a data metrics project (Making Data Count) so I am very interested in the altmetrics session, as well as the (unfortunately concurrent) data management session.
+
+
+I recently became a user experience designer at the California Digital Library (CDL), following a CLIR/DLF Postdoctoral Fellowship in Data Curation. My fellowship focused on data publication as a means to achieve recognition of datasets as first-class scholarly products, and in my current role, I am involved in redesigning the CDL's data publication service. Thus, my professional interests center squarely on the issues that Force11 is tackling.  My fellowship included a travel stipend; my new position does not, so I am applying for support.
+
+When I started my fellowship, it quickly became clear that because citations constitute both the edges connecting nodes in the scholarly communication network, and the coin of academic prestige, establishing citation practices is essential to the incorporation of novel scholarly products such as data. I worked on this issue as a member of the Data Citation Implementation Group and, now, of the Software Citation Working Group.
+
+I know how valuable attending Force2016 would be because I was fortunate enough to attend Force2015.
+Sarah Thomas's talk and subsequent discussion of the library's role in scholarly communication, and the session on reproducibility stood out as exceptionally invigoration. The program for Force2016 is equally exciting. I look forward to bringing the varied perspectives of the Force11 community back to the CDL, and I would certainly be excited to write a post for our DataPub blog about the experience.
