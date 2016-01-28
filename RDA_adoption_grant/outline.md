@@ -35,22 +35,28 @@
       * want to be sure that everything is rock-solid by seeking DSA/WDS certification
     * in addition to researchers, we rely on the campus libraries for support
       * libraries would definitely like to know that we're certified
-  * Effort: DSA-WDS certification
+  * Effort: Repository Audit and Certification DSA–WDS Partnership WG Recommendations
+    * get DSA certification
     * self-asessment via DSA online tool
     * make any necessary improvements to documentation and processes
+      * a preliminary review suggests that our current practices are largely in compliance, and the most significant work will be to document and formalize ad-hoc policies.
     * peer-review
   * Impact / metric of success
     * ultimately, successful certification
     * any changes to policy/documentation/etc that have to be made will almost certainly improve our data environment
     * more campuses sign-on?
   * Milestones
-    1. complete changes to documentation / processes
-    2. submit application
+    1. compile documentation and decide what we need to do to pass
+    2. complete self-assessment and submit application
     3. make any further changes in response to PR
     4. get the certification
 
 * Data metrics
   * Problem: researchers don't know whether anyone is actually using the data they publish
+    * this is disheartening
+    * researchers can't get credit for generating really useful datasets
+    * potential re-users don't know whether anyone else has looked at this thing
+    * t and p committees don't value data publication
   * Effort: Implement metrics via lagotto
     * API to supply downloads and views
     * harvest metrics from lagotto
