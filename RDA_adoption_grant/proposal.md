@@ -11,18 +11,19 @@ Although Dash is already a reliable and functional service, we have identified t
 
 # Data metrics
 ## Problem being addressed
-Metrics of data impact/use are essential to incentivize data sharing by researchers.
-The current Dash service does not collect or expose any metrics for the datasets or metadata records it contains.
-The updated service will display a basic count of dataset downloads and metadata record page views.
-While this is a good first step, the RDA-WDS Publishing Data Metrics Working group survey, as well as work carried out by the Making Data Count project, ntdemonstrated that researchers and data managers value citations above all else.
-Consequently, we are seeking to collect and display a more complete set of metrics for Dash datasets.
+As demonstrated by the RDA/WDS Publishing Data Bibliometrics Working Group survey, metrics of dataset impact, use, and reuse are essential enabling technologies for recognition of researchers who publish valuable data.
+They are also valuable to administrators, data managers, and librarians who wish to evaluate the effectiveness of their services and target their efforts where they will be most effective.
+The current Dash service does not collect, display, or expose via API any metrics for the datasets or metadata records it contains.
+The next major release will display a basic count of dataset downloads and metadata record page views on individual landing pages.
+While this is a good first step, the Publishing Data Metrics Working group survey, as well as work carried out by the Making Data Count project, demonstrated that researchers and data managers value citations above all else.
+Consequently, we are seeking to collect and display a richer set of metrics for Dash datasets, in accordance with the working group reocmmendations to the fullest extent possible.
 
 ## Nature of effort
-For this project, we will integrate Dash with an in-development data metrics service hosted by DataCite.
-We will modify Dash to collect metrics (i.e., downloads, views) in accordance with community standards being collected by the RDA Data Bibliometrics Working Group.
-Then we will serve them via API to a lagotto instance being run by DataCite.
-From DataCite, we'll get additional metrics, such as citations, collected for DataCite DOIs.
-These will be displayed on landing pages and available for researchers, librarians, and administrators.
+For this project, we will establish points of integration between the Dash dataset ingest/discovery layer and the Lagotto open-source metrics aggregation tool; ideally in the form of an in-development data metrics service hosted by DataCite.
+We will modify Dash to ensure that the metrics (i.e., downloads, views) collected at the respository level are in accordance with community standards (e.g., COUNTER) being collected by the RDA Data Bibliometrics Working Group.
+Repository-collected metrics will be served by Dash to the DataCite service.
+From the DataCite service, Dash will receive additional metrics, such as citations and social media activity, collected for DataCite DOIs.
+These will be displayed within Dash on landing pages and available for researchers, librarians, and administrators; they will also be available from lagotto.
 
 ## Impact and metric of success
 This project has the pontential to positively impact data sharing at a number of levels.
