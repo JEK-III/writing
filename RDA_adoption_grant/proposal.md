@@ -1,17 +1,20 @@
 
-The California Digital Library is seeking funding to incorporate RDA Working Group Recommendations into our data preservation and publication service, Dash.
-Dash enables researchers from six University of California Campuses to self-deposit data of any kind from any discipline to ensure preservation, enable citation via DOI, and enhance discoverability.
-The Dash service is run using enirely open-source protocols; wherever possible, Dash components interact via standard protocols to enhance reusability.
-Although Dash is already a reliable and functional service, we have identified two key areas where RDA Working Group Recommendations could help us to offer a higher level of service.
-<!-- something about how we're currently revising -->
+# Introduction
+The California Digital Library (CDL) is seeking funding to incorporate RDA Working Group Recommendations into our data preservation and publication service, Dash.
+Dash enables researchers from six University of California (UC) campuses to self-deposit data of any kind from any discipline to ensure preservation, enable citation via DOI, and enhance discoverability.
+Individual UC campus libraries must opt-in to Dash and agree to pay data storage costs, at which point we set up a Dash instance for their researchers to use; consequently, both researchers and campus libraries are major stakeholders in the service.
+
+Dash is run using enirely open-source software, primarily developed at the CDL.
+Following an update planned for April, the Dash injest/discovery layer will interface with the underlying repository via standard protocols (SWORD, OAI-PMH), making the software broadly usable for general-purpose or discipline-specific preservation.
+Although Dash is already a reliable and functional service, we have identified two key areas where RDA Working Group Recommendations could help us to offer a higher level of service: data metrics and repository certification.
 
 
 # Data metrics
 ## Problem being addressed
-We recognize that metrics of data impact/use are essential to incentivize data sharing by researchers.
+Metrics of data impact/use are essential to incentivize data sharing by researchers.
 The current Dash service does not collect or expose any metrics for the datasets or metadata records it contains.
 The updated service will display a basic count of dataset downloads and metadata record page views.
-While this is a good first step, the RDA-WDS Publishing Data Metrics Working group survey, as well as work carried out by the Making Data Count project, demonstrated that researchers and data managers value citations above all else.
+While this is a good first step, the RDA-WDS Publishing Data Metrics Working group survey, as well as work carried out by the Making Data Count project, ntdemonstrated that researchers and data managers value citations above all else.
 Consequently, we are seeking to collect and display a more complete set of metrics for Dash datasets.
 
 ## Nature of effort
