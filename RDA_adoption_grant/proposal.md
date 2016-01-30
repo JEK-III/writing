@@ -26,12 +26,13 @@ From the DataCite service, Dash will receive additional metrics, such as citatio
 These will be displayed within Dash on landing pages and available for researchers, librarians, and administrators; they will also be available from lagotto.
 
 ## Impact and metric of success
-This project has the pontential to positively impact data sharing at a number of levels.
+This project has the pontential to positively impact data sharing within the UC system and beyond.
 Researchers may be more likey to publish data if they can see that their data is being used; discovering citations to datasets is particularly likely to be motivating.
-Campus libraries can better assess the value of the data being published through their library Dash portals.
-This will help to justify funding for libraries to publish data.
+Campus libraries can better assess the value of the data being published through their library Dash portals, which will help to justify funding for libraries to publish data.
 For the world at large, increased adoption and display of data metrics will help to make the case that datasets should be valued as 'first-class' scholarly outputs.
-<!-- how will we judge success of this particular program? -->
+Because Dash is open-source, Lagotto connections will be available for any other group that wishes to use the Dash ingest/discovery layer.
+
+<!-- how will we judge success of this particular component? -->
 
 ## Milestones
 1. set up API to serve repository-side metrics to lagotto
