@@ -44,24 +44,25 @@ Because Dash is open-source, Lagotto connections will be available for any other
 
 # Certification
 ## Problem being addressed
-Dash is a reliable preservation service, and we strive to adhere to best practices whenever possible, but we have never evaluated Dash relative to an external standard such as TRAC certification or the Data Seal of Approval.
-Furthermore, although Dash is relatively recent, Merritt has been in operation for XX years, and standards may have evolved in the intervening years.
-Rather than pick a standard at random, we would like to use the recommendations of the Repository Audit and Certification Working DSA-WDS Partnership WG to pursue certification.
+In the development and operation of Dash, the CDL strives to adhere to best practices whenever possible, but Dash has never been evaluated relative to an external standard such as TRAC certification or the Data Seal of Approval.
+It is possible that our procedures are inadequate and likely that additional documentation will be needed.
+To ensure that Dash is fully complaint with recognized best practices, we intend to seek basic certification via the recommendations of the Repository Audit and Certification Working DSA-WDS Partnership Working Group.
 
 ## Nature of effort
-Following the recommendation of the WG, we intend to use one of the existing 'entry points' to certification, the Data Seal of Approval.
-Based on preliminary review of the certification criteria, our expectation is that current systems and policies are already near compliance. Most of the work will involve better documenting and formalizing current practices.
+Following the recommendation of the working group, we intend to use one of the existing entry points to certification, the Data Seal of Approval self-assesment tool.
+Based on preliminary review of the certification criteria, our expectation is that current systems and policies are already near compliance.
+Most of the effort will involve better documenting and formalizing current practices.
 This work will involve :
 1. reviewing the 16 DSA assessment guidelines to identify what documentation must be collected, what de-facto practices and policies must be documented, whether any major changes must be made.
 2. completing the online self-evaluation using the DSA tool and submitting for peer review.
 3. making any changes recommended by the reviewers
 
 ## Impact / metric of success
-The impact of this process will be to identify and address any deficiencies in our current practices.
-Formalizing and openly documenting our policies and practices will make the system easier for campus libraries and researchers to use.
+The major impact of this process will be to identify and address any deficiencies in our current practices.
+Formalizing and openly documenting policies and practices will make Dash easier for UC campus libraries and researchers to use.
 Librarians and researchers will also be reassured that their data is safe with us.
-A clear metric of success would be receipt of the DSA.
-A secondary metric of impact might be an increase in dataset deposits following advertisement of the certification to the campus libraries.
+A clear metric of success would be successful certification.
+A secondary metrics of impact might be increased data deposits following advertisement of the certification to the campus libraries or, ideally, adoption of Dash by additional UC campus libraries
 
 ## Milestones
 1. complete review of existing practices relative to guidelines to determine the full scope of effort required
