@@ -32,12 +32,14 @@ Researchers are more likely to publish data if they can see that their data is b
 Campus libraries can better assess the value of the data being published through their library Dash portals, which will help to justify funding for libraries to publish data.
 Beyond the UC system, increased adoption and display of data metrics will help to make the case that datasets should be valued as 'first-class' scholarly outputs.
 
-<!-- how will we judge success of this particular component? -->
+Researcher and librarian interest-in and comprehension-of data metrics displayed in Dash will be evaluated by usability testing of the enhanced landing pages.
+If successful, this project should result in increased dataset deposits in Dash– although an abundance of confounding factors will make drawing specific conclusions difficult.
+Once metrics are in place, user activity on the Dash site may provide a more reliable basis for assessing interest in metrics (e.g., to what extent do users click-through to view detailed statistics?).
 
 ## Milestones
-1. set up API to serve repository-side metrics to lagotto
-2. begin collecting rich metrics from the lagotto API
-3. design meaningful display for dataset landing pages
+1. Establish API to serve repository-side metrics to lagotto.
+2. Begin collecting expanded metrics from the lagotto API.
+3. Design and implement a meaningful display for dataset landing pages.
 
 
 # Certification
@@ -47,27 +49,26 @@ It is possible that our procedures are inadequate and likely that additional doc
 To ensure that Dash is fully complaint with recognized best practices, we intend to seek basic certification via the recommendations of the Repository Audit and Certification Working DSA-WDS Partnership Working Group.
 
 ## Nature of effort
-Following the recommendation of the working group, we intend to use one of the existing entry points to certification, the Data Seal of Approval self-assesment tool.
+Following the recommendation of the working group, we intend to use one of the existing entry points to certification: the Data Seal of Approval self-assesment tool.
 Based on preliminary review of the certification criteria, our expectation is that current systems and policies are already near compliance.
 Most of the effort will involve better documenting and formalizing current practices.
 This work will involve :
-1. reviewing the 16 DSA assessment guidelines to identify what documentation must be collected, what de-facto practices and policies must be documented, whether any major changes must be made.
-2. completing the online self-evaluation using the DSA tool and submitting for peer review.
-3. making any changes recommended by the reviewers
+1. Reviewing the 16 DSA assessment guidelines to identify what documentation must be collected, what de-facto practices and policies must be documented, whether any major changes must be made.
+2. Completing the online self-evaluation using the DSA tool and submitting for peer review.
+3. Making any changes recommended by the reviewers
 
 ## Impact / metric of success
 The major impact of this process will be to identify and address any deficiencies in our current practices.
 Formalizing and openly documenting policies and practices will make Dash easier for UC campus libraries and researchers to use.
 Librarians and researchers will also be reassured that their data is safe with us.
 A clear metric of success would be successful certification.
-A secondary metrics of impact might be increased data deposits following advertisement of the certification to the campus libraries or, ideally, adoption of Dash by additional UC campus libraries
+A secondary metrics of impact might be increased data deposits following advertisement of the certification to the campus libraries or, ideally, adoption of Dash by additional UC campus libraries.
 
 ## Milestones
-1. complete review of existing practices relative to guidelines to determine the full scope of effort required
-2. submit self-assessment
-3. complete any changes required by peer review
-4. receive certification
-
+1. Review existing practices relative to guidelines to determine the full scope of effort required.
+2. Complete and submit self-assessment.
+3. Complete any work suggested by peer reviewers.
+4. Recieve certification.
 
 # Adopting organization
 
@@ -75,5 +76,3 @@ A secondary metrics of impact might be increased data deposits following adverti
 The CDL exists to support the University of California’s scholarship mission in an increasingly digital world. CDL’s diverse and talented staff has assembled one of the world’s largest digital research libraries, and has changed the ways that faculty, students, and researchers discover, access, use, and preserve information.
 UC3 is a programmatic unit of the CDL and is a creative partnership bringing together the expertise and resources of the CDL, the ten UC campuses, and the broader international curation community.
 Harnessing the collective energy and innovation of its partners, UC3 provides solutions that are out of reach of any individual partner.
-
-## University of California
