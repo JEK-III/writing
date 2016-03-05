@@ -14,7 +14,7 @@ Although Dash is already a reliable and functional service, we have identified t
 
 
 # Data metrics
-## Problem being addressed
+## Problem being address
 The RDA/WDS Publishing Data Bibliometrics Working Group argues that metrics of dataset impact, use, and reuse are essential enabling technologies for recognition of researchers who publish valuable data.
 A survey conducted by the working group found that metrics are also of high interest to administrators, data managers, and librarians who wish to evaluate the effectiveness of their services and target their efforts where they will be most effective.
 The current Dash service does not collect, display, or expose via API any metrics for metadata records or datasets.
